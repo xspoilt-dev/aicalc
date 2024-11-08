@@ -15,8 +15,8 @@
 - ⚡ **Standalone Executable**: Download the `.exe` file from the [Releases](https://github.com/xspoilt-dev/aicalc/releases) section for a ready-to-use application.
 
 ## Screenshots 📸
-![Gemini AI Calculator](https://via.placeholder.com/800x400?text=Gemini+AI+Calculator+Screenshot)
-
+![Gemini AI Calculator](https://github.com/xspoilt-dev/aicalc/blob/main/ss1.png?raw=true)
+![Gemini AI Calculator](https://github.com/xspoilt-dev/aicalc/blob/main/ss2.png?raw=true)
 ## Getting Started 🛠️
 
 ### Prerequisites
@@ -30,3 +30,17 @@
    ```bash
    git clone https://github.com/xspoilt-dev/aicalc.git
    cd aicalc
+```
+## Features
+- `Pen Size (px)`
+- `Color Control`
+- `Eraser`
+- `Reset Button`
+
+### Contact 📬
+
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+- **Telegram**: [xspoilt-dev](https://t.me/x_spoilt)
+- **Email**: [x_spoilt@yahoo.com](mailto:x_spoilt@yahoo.com)
+
